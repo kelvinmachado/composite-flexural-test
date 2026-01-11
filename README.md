@@ -26,7 +26,7 @@ It allows evaluating how **roller–laminate contact compliance** affects the lo
 
 ## Inputs
 - Geometry: span, width, thickness.
-- Lamina properties: \(E_1, E_2, G_{12}, \nu_{12}\).
+- Lamina properties: $(E_1, E_2, G_{12}, \nu_{12})$.
 - Stacking sequence.
 - Roller radius and contact parameters.
 
